@@ -1,0 +1,346 @@
+{"data":
+    [
+      {
+        "celsius_max": "21.7",
+        "celsius_min": "-3.4",
+        "year": "1994",
+        "mo": "05",
+        "da": "10",
+        "state": "MI",
+        "country": "US"
+      },
+      {
+        "celsius_max": "2.7",
+        "celsius_min": "-69.2",
+        "year": "1994",
+        "mo": "09",
+        "da": "21",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "9.4",
+        "celsius_min": "-10.0",
+        "year": "1994",
+        "mo": "02",
+        "da": "05",
+        "state": "WA",
+        "country": "US"
+      },
+      {
+        "celsius_max": "2.0",
+        "celsius_min": "-56.0",
+        "year": "1994",
+        "mo": "03",
+        "da": "14",
+        "state": "",
+        "country": "IC"
+      },
+      {
+        "celsius_max": "6.0",
+        "celsius_min": "-48.1",
+        "year": "1994",
+        "mo": "03",
+        "da": "24",
+        "state": "",
+        "country": "IC"
+      },
+      {
+        "celsius_max": "7.6",
+        "celsius_min": "-58.2",
+        "year": "1994",
+        "mo": "01",
+        "da": "05",
+        "state": "",
+        "country": "RS"
+      },
+      {
+        "celsius_max": "28.9",
+        "celsius_min": "-41.2",
+        "year": "1994",
+        "mo": "03",
+        "da": "27",
+        "state": "",
+        "country": "RS"
+      },
+      {
+        "celsius_max": "1.0",
+        "celsius_min": "-15.0",
+        "year": "1994",
+        "mo": "03",
+        "da": "09",
+        "state": "",
+        "country": "IC"
+      },
+      {
+        "celsius_max": "8.3",
+        "celsius_min": "-39.5",
+        "year": "1994",
+        "mo": "03",
+        "da": "24",
+        "state": "AK",
+        "country": "US"
+      },
+      {
+        "celsius_max": "24.4",
+        "celsius_min": "3.8",
+        "year": "1994",
+        "mo": "09",
+        "da": "06",
+        "state": "MI",
+        "country": "US"
+      },
+      {
+        "celsius_max": "3.0",
+        "celsius_min": "-20.6",
+        "year": "1994",
+        "mo": "02",
+        "da": "23",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "13.0",
+        "celsius_min": "-5.0",
+        "year": "1994",
+        "mo": "12",
+        "da": "03",
+        "state": "",
+        "country": "IC"
+      },
+      {
+        "celsius_max": "14.4",
+        "celsius_min": "-31.2",
+        "year": "1994",
+        "mo": "04",
+        "da": "09",
+        "state": "AK",
+        "country": "US"
+      },
+      {
+        "celsius_max": "7.7",
+        "celsius_min": "-28.4",
+        "year": "1994",
+        "mo": "02",
+        "da": "09",
+        "state": "AK",
+        "country": "US"
+      },
+      {
+        "celsius_max": "16.7",
+        "celsius_min": "-48.0",
+        "year": "1994",
+        "mo": "11",
+        "da": "14",
+        "state": "",
+        "country": "RS"
+      },
+      {
+        "celsius_max": "30.6",
+        "celsius_min": "-0.6",
+        "year": "1994",
+        "mo": "04",
+        "da": "25",
+        "state": "MI",
+        "country": "US"
+      },
+      {
+        "celsius_max": "20.6",
+        "celsius_min": "-2.3",
+        "year": "1994",
+        "mo": "05",
+        "da": "17",
+        "state": "MI",
+        "country": "US"
+      },
+      {
+        "celsius_max": "5.6",
+        "celsius_min": "-13.3",
+        "year": "1994",
+        "mo": "01",
+        "da": "23",
+        "state": "WI",
+        "country": "US"
+      },
+      {
+        "celsius_max": "9.2",
+        "celsius_min": "-63.0",
+        "year": "1994",
+        "mo": "10",
+        "da": "06",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "-1.0",
+        "celsius_min": "-34.3",
+        "year": "1998",
+        "mo": "02",
+        "da": "06",
+        "state": "",
+        "country": "FI"
+      },
+      {
+        "celsius_max": "-0.2",
+        "celsius_min": "-71.0",
+        "year": "1998",
+        "mo": "06",
+        "da": "06",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "1.4",
+        "celsius_min": "-70.4",
+        "year": "1998",
+        "mo": "07",
+        "da": "23",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "5.8",
+        "celsius_min": "-51.2",
+        "year": "1998",
+        "mo": "11",
+        "da": "12",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "9.6",
+        "celsius_min": "-16.1",
+        "year": "1998",
+        "mo": "11",
+        "da": "21",
+        "state": "",
+        "country": "RO"
+      },
+      {
+        "celsius_max": "8.3",
+        "celsius_min": "-56.3",
+        "year": "1998",
+        "mo": "02",
+        "da": "16",
+        "state": "",
+        "country": "RS"
+      },
+      {
+        "celsius_max": "23.1",
+        "celsius_min": "-5.9",
+        "year": "1998",
+        "mo": "11",
+        "da": "15",
+        "state": "",
+        "country": "KN"
+      },
+      {
+        "celsius_max": "-12.6",
+        "celsius_min": "-85.1",
+        "year": "1998",
+        "mo": "09",
+        "da": "10",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "2.5",
+        "celsius_min": "-7.0",
+        "year": "1998",
+        "mo": "10",
+        "da": "24",
+        "state": "",
+        "country": "IC"
+      },
+      {
+        "celsius_max": "-3.4",
+        "celsius_min": "-31.0",
+        "year": "1998",
+        "mo": "01",
+        "da": "19",
+        "state": "",
+        "country": "KN"
+      },
+      {
+        "celsius_max": "-1.4",
+        "celsius_min": "-69.9",
+        "year": "1998",
+        "mo": "07",
+        "da": "09",
+        "state": "",
+        "country": "AY"
+      },
+      {
+        "celsius_max": "13.2",
+        "celsius_min": "-15.3",
+        "year": "1998",
+        "mo": "11",
+        "da": "10",
+        "state": "",
+        "country": "KN"
+      },
+      {
+        "celsius_max": "10.0",
+        "celsius_min": "-41.0",
+        "year": "1998",
+        "mo": "01",
+        "da": "25",
+        "state": "AK",
+        "country": "US"
+      },
+      {
+        "celsius_max": "5.6",
+        "celsius_min": "-25.6",
+        "year": "1998",
+        "mo": "01",
+        "da": "10",
+        "state": "CO",
+        "country": "US"
+      },
+      {
+        "celsius_max": "3.0",
+        "celsius_min": "-42.0",
+        "year": "1998",
+        "mo": "01",
+        "da": "02",
+        "state": "AK",
+        "country": "US"
+      },
+      {
+        "celsius_max": "10.6",
+        "celsius_min": "-8.0",
+        "year": "1998",
+        "mo": "02",
+        "da": "05",
+        "state": "CO",
+        "country": "US"
+      },
+      {
+        "celsius_max": "25.0",
+        "celsius_min": "0.1",
+        "year": "1998",
+        "mo": "06",
+        "da": "28",
+        "state": "",
+        "country": "NO"
+      },
+      {
+        "celsius_max": "17.0",
+        "celsius_min": "-1.1",
+        "year": "1998",
+        "mo": "09",
+        "da": "16",
+        "state": "",
+        "country": "NO"
+      },
+      {
+        "celsius_max": "31.9",
+        "celsius_min": "23.6",
+        "year": "1998",
+        "mo": "12",
+        "da": "28",
+        "state": "",
+        "country": "WS"
+      }
+    ]
+}

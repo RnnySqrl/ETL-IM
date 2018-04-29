@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 from google.cloud import bigquery
 import os
-from settings.settings import GOOGLE_JSON_KEY
+import settings.settings as settings
 
 
 class NOAA_GSOD(object):
 
     def __init__(self):
         # https://stackoverflow.com/a/1506046/6362121
-        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = GOOGLE_JSON_KEY
+        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = settings.GOOGLE_JSON_KEY
 
         self.client = bigquery.Client()
 

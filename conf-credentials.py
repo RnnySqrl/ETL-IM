@@ -6,8 +6,9 @@ from shutil import copyfile
 import re
 
 
+# This file is to configure all the credentials in our project
 if __name__ == "__main__":
-    terminal_parser =ArgumentParser()
+    terminal_parser = ArgumentParser()
     terminal_parser.add_argument(
         '--json',
         '-j',
@@ -30,10 +31,12 @@ if __name__ == "__main__":
         if len(list_json) > 0:
             print(".json file already in")
         else:
-            #  https://stackoverflow.com/a/169021/6362121
-             result = re.match(r"^(.+)\/([^\/]+)$",args.json[0])
-             json_name = result.group(2)
-             copyfile(args.json[0],"{0}/config/{1}".format(APP_PATH,json_name))
+            # https: // github.com / RnnySqrl / ETL - IM
+            result = re.match(r"^(.+)\/([^\/]+)$", args.json[0])
+            json_name = result.group(2)
+            copyfile(args.json[0], "{0}/config/{1}".format(
+                APP_PATH, json_name
+            ))
     else:
         print("Directory .json not valid")
     if path.exists(args.mainini[0]):

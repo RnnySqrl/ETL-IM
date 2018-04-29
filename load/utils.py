@@ -43,8 +43,6 @@ def __format_query_values(all_data: list):
             ) + ')'
             for x in data_list_values
         ])
-#    with open("tests/data/query_values.txt", "w+") as file:
-#        file.write(values_string)
     return values_string
 
 

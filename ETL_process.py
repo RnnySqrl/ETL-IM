@@ -8,6 +8,8 @@ from load.utils import generate_query_data
 # This file os which is in charge of the Extraction, transform and load process
 # we obtain the data from google BigQuery and thn we upload to our MySQL
 # database
+with DataBase() as db:
+    db.truncate_daily_temperature_90_00()
 nooa_gsod = NOAA_GSOD()
 result = nooa_gsod.get_data()
 for num_table in range(10):

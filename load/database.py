@@ -25,6 +25,10 @@ class DataBase(object):
         self._cursor_db.close()
         self._conn_db.close()
 
+    def truncate_daily_temperature_90_00(self):
+        query = "TRUNCATE TABLE daily_temperature_90_00"
+        self._cursor_db.execute(query)
+
     def insert_data(self, query):
         try:
             self._cursor_db.execute(query)

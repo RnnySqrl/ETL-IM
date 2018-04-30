@@ -3,6 +3,7 @@
 import pymysql
 from settings.settings import settings
 
+
 class DataBase(object):
     def __init__(self):
         config_db = {
@@ -35,10 +36,7 @@ class DataBase(object):
             print("Couldn't insert values")
 
 
-
-
 class ViewerDataBase(object):
-
     def __init__(self):
 
         config_app_db = {
@@ -68,23 +66,22 @@ class ViewerDataBase(object):
         ]
         if len(countries) <= 0:
             print(
-                "State: {0} doesn't exists or we haven't got data"
-                .format(state)
+                "State: {0} doesn't exists or we haven't got data".format(
+                    state
+                )
             )
             return None
         elif len(countries) == 1:
             chosen_country = countries[0]
         else:
             # https://stackoverflow.com/a/954840/6362121
-            chosen_country = input(
-                "The state {0} is in {1} countries please chose the country"
-                    .format(
-                    state,
-                    ",".join(countries)
-                     + " you want: "
-                )
-            ).upper()
-            print(chosen_country)
+            str_usr = """
+            The state {0} is in {1} countries please chose the country
+            """
+            chosen_country = input(str_usr.format(
+                state,
+                ",".join(countries) + " you want: ")).upper(
+            )
             if chosen_country not in countries:
                 print("the country you have selected is not in the options")
                 return None

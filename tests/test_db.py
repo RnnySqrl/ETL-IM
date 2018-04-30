@@ -8,6 +8,7 @@ from settings.settings import DB_CRED
 def test_conn_root_db():
     assert DataBase()
 
+
 @pytest.mark.skipif(not DB_CRED, reason="Credentials not iniciated")
 def test_conn_app_db():
     assert ViewerDataBase()

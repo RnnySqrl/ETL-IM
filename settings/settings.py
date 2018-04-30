@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 from configparser import ConfigParser
-from os import path, listdir
+from os import path
 from settings.utils import find_ext_file, basepath
 
 

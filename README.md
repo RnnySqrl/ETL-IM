@@ -10,7 +10,7 @@
 
 #### Installation
 ```
-$ git clone git clone https://github.com/RnnySqrl/ETL-IM.
+$ git clone git clone https://github.com/RnnySqrl/ETL-IM.git
 $ cd ETL-IM
 $ pip3 install -r requirements.txt
 $ python3 conf-credentials.py --json directory_where_json_is -m directory_where_main-ini_is

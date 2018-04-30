@@ -44,7 +44,9 @@ class NOAA_GSOD(object):
                 """
         all_data = dict()
         for num_table in range(10):
-            query_job = self.client.query(query.format(num_table), location='US')
+            query_job = self.client.query(query.format(num_table),
+                                          location='US'
+                                          )
             query_job.result()
             assert query_job.state == 'DONE'
             all_data['table_199%s' % num_table] = query_job
